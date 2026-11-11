@@ -2,9 +2,9 @@
 
 ⚡ Personal portfolio website showcasing my work as an AI Trainer, LLM Evaluator, RLHF Specialist, and Full Stack Developer.
 
-## 🚀 Live Demo
+# Portfolio
 
-[View Portfolio](https://aniketpandey.github.io/portfolio/) *(after deployment)*
+🔗 **Live Demo:** [https://aniket-pandey1.github.io/portfolio/](https://aniket-pandey1.github.io/portfolio/)
 
 ## ✨ Features
 
